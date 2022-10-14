@@ -1,4 +1,3 @@
-@@ -0,0 +1,39 @@
 /*
 Title   : 아픈 동물 찾기
 Author  : Hoseok Lee
