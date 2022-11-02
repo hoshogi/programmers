@@ -9,7 +9,7 @@ https://github.com/hoshogi
 #include <string>
 #include <vector>
 #include <sstream>
-
+ 
 using namespace std;
 
 bool calculate(int operator1, int operator2, int result, string oper) {
