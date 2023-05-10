@@ -2,7 +2,7 @@
 Title   : flag에 따라 다른 값 반환하기
 Author  : Hoseok Lee
 Date    : 2023/05/10
-https://school.programmers.co.kr/learn/courses/30/lessons/181941
+https://school.programmers.co.kr/learn/courses/30/lessons/181933
 https://github.com/hoshogi
 */
 
